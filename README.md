@@ -1,8 +1,8 @@
 <h1 align="center">Hi there</h1>
 
-## 📌 pinned anomalies
+## 📌 stuff
 
-> a curated stack of the strange, useful, and stream-bound.
+> a few things i've made
 
 - 🎥 **[TwitchFilm](https://github.com/vihanga-w/TwitchFilm)**  
   _fully automated film streams to Twitch_  
