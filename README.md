@@ -22,7 +22,7 @@
 
 ```txt
 🧠 always experimenting
-🌒  UK-based // timezones are lies
+🌒 UK-based // timezones are lies
 ```
 
 ---
