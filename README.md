@@ -4,9 +4,9 @@
 
 > a few things i've made
 
-- 🎥 **[TwitchFilm](https://github.com/vihanga-w/TwitchFilm)**  
-  _fully automated film streams to Twitch_  
-  `python` ░ unmaintained
+- 🎥 **[AI Fact Checker](https://github.com/vihanga-w/cf_ai_llm_fact_checker)**  
+  _uses LLMs to verify accuracy of input_  
+  `js + html` ░ ai-based truth?
 
 - 🎧 **[spotifyForOBS](https://github.com/vihanga-w/spotifyForOBS)**  
   _display what you're vibing to on stream_  
