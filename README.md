@@ -4,7 +4,7 @@
 
 > a few things i've made
 
-- 🎥 **[AI Fact Checker](https://github.com/vihanga-w/cf_ai_llm_fact_checker)**  
+- ✔️ **[AI Fact Checker](https://github.com/vihanga-w/cf_ai_llm_fact_checker)**  
   _uses LLMs to verify accuracy of input_  
   `js + html` ░ ai-based truth?
 
