@@ -4,7 +4,7 @@
 
 > a few things i've made
 
-- ✔️ **[Tempo BE](https://github.com/vihanga-w/Tempo)** / **[Tempo FE](https://github.com/vihanga-w/tempo-website)**  
+- 🪩 **[Tempo BE](https://github.com/vihanga-w/Tempo)** / **[Tempo FE](https://github.com/vihanga-w/tempo-website)**  
   _social music activity sharing platform_
   `js + next` ░ stalk everything!
 
