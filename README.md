@@ -4,6 +4,10 @@
 
 > a few things i've made
 
+- ✔️ **[Tempo](https://github.com/vihanga-w/Tempo)
+  _social music activity sharing platform_
+  `js + next` ░ stalk everything!
+
 - ✔️ **[AI Fact Checker](https://github.com/vihanga-w/cf_ai_llm_fact_checker)**  
   _uses LLMs to verify accuracy of input_  
   `js + html` ░ ai-based truth?
