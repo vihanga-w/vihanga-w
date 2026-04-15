@@ -18,7 +18,7 @@
 
 - 🔐 **[mnkrcc/zest](https://github.com/mnkrcc/zest)**  
   _RSA + AES hybrid encryption_  
-  `javascript` ░ secure... probably
+  `javascript` ░ it never ends
 
 ---
 
