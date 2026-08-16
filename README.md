@@ -13,7 +13,7 @@
   `js + html` ░ ai-based truth?
 
 - 🎧 **[spotifyForOBS](https://github.com/vihanga-w/spotifyForOBS)**  
-  _display what you're vibing to on stream_  
+  _display what you're listening to on stream_  
   `js + html` ░ for the lo-fi addicts
 
 - 🔐 **[mnkrcc/zest](https://github.com/mnkrcc/zest)**  
